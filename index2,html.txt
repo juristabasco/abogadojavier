@@ -21,6 +21,6 @@
     </style>
 </head>
 <body>
-    <img src="juristabascojavo,jpg" alt="Tarjeta de presentacion">
+    <img src="juristabascojavo.jpg" alt="Tarjeta de presentacion">
 </body>
 </html>
